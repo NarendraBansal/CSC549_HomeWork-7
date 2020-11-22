@@ -1,0 +1,5 @@
+remember int a = 5;
+remember int b = 7;
+remember int e = do-math do-math do-math 2 + 3 * 2 + do-math 4 - do-math a + b;
+question test e > 0 do remember  int c = 1 otherwise remember int c = 2;
+question test b > 5 do remember int k = 20 otherwise remember int k = 30;
